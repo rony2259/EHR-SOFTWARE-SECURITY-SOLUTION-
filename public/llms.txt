@@ -1,0 +1,7 @@
+# EHR Software & Cyber Solution
+
+> Elite engineering agency offering custom software development, cybersecurity & bug hunting, AI automation (n8n), bot development, and software reverse engineering for international clients.
+
+## Pages
+
+- [Home](/): Services overview, client testimonials, process, and contact.
